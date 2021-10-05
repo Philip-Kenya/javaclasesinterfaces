@@ -5,3 +5,5 @@ no modifier->package private
 
 this->implicit reference to current object, allow object to pass itself as a parameter.
 null->uncreated object.
+
+accesors/mutators->getters/setters 
