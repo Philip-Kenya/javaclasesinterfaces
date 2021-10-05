@@ -1,0 +1,4 @@
+Encapsulation->hiding details of the class->access modifiers
+public ->everywhere
+private->within class
+no modifier->package private
