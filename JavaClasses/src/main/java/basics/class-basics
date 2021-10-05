@@ -2,3 +2,6 @@ Encapsulation->hiding details of the class->access modifiers
 public ->everywhere
 private->within class
 no modifier->package private
+
+this->implicit reference to current object, allow object to pass itself as a parameter.
+null->uncreated object.

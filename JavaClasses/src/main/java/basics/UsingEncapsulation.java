@@ -18,5 +18,11 @@ class UsingEncapsulation {
 	private void handleTooMany() {
 		System.out.println("Too many");	
 	}
+	
+	public boolean hasRoom(UsingEncapsulation f1)
+	{
+		int total= this.pass + f1.pass;
+		return total<this.seats;
+	}
 
 }
